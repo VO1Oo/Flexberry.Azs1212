@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-azs1212-пистолет-e",
+  "editForm": "i-i-s-azs1212-пистолет-e",
+  "external": false,
+  "caption": "Пистолет",
+  "name": "IISAzs1212ПистолетL",
+  "className": "ПистолетL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-пистолет",
+      "modelProjection": "ПистолетL"
+    }
+  ]
+}

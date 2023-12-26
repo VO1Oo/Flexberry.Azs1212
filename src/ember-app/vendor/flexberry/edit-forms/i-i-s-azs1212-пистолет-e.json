@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Пистолет",
+  "name": "IISAzs1212ПистолетE",
+  "className": "ПистолетE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-пистолет",
+      "modelProjection": "ПистолетE"
+    }
+  ]
+}

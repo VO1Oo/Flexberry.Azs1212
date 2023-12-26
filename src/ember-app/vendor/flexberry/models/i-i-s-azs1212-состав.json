@@ -1,0 +1,38 @@
+﻿{
+  "name": "IISAzs1212Состав",
+  "modelName": "i-i-s-azs1212-состав",
+  "className": "Состав",
+  "nameSpace": "IIS.Azs1212",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "пистолет",
+      "relatedTo": "i-i-s-azs1212-пистолет",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "колонка",
+      "relatedTo": "i-i-s-azs1212-колонка",
+      "inverse": "состав"
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "СоставE",
+      "modelName": "i-i-s-azs1212-состав",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

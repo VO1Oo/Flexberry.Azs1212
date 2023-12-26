@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "Azs1212",
+  "applicationTitle": "Azs1212",
+  "items": [
+    {
+      "link": null,
+      "menuName": "azs1212",
+      "caption": "Azs1212",
+      "title": "Azs1212",
+      "children": [
+        {
+          "link": "i-i-s-azs1212-регист-остатков-l",
+          "menuName": null,
+          "caption": "Регист остатков",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-azs1212-пистолет-l",
+          "menuName": null,
+          "caption": "Пистолет",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-azs1212-азс-l",
+          "menuName": null,
+          "caption": "Азс",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-azs1212-оплата-l",
+          "menuName": null,
+          "caption": "Оплата",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-azs1212-справочник-цен-l",
+          "menuName": null,
+          "caption": "Справочник цен",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-azs1212-терминал-l",
+          "menuName": null,
+          "caption": "Терминал",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-azs1212-колонка-l",
+          "menuName": null,
+          "caption": "Колонка",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-azs1212-резервуар-l",
+          "menuName": null,
+          "caption": "Резервуар",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

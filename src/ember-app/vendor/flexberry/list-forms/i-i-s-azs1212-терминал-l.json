@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-azs1212-терминал-e",
+  "editForm": "i-i-s-azs1212-терминал-e",
+  "external": false,
+  "caption": "Терминал",
+  "name": "IISAzs1212ТерминалL",
+  "className": "ТерминалL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-терминал",
+      "modelProjection": "ТерминалL"
+    }
+  ]
+}

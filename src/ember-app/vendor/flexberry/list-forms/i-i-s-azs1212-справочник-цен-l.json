@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-azs1212-справочник-цен-e",
+  "editForm": "i-i-s-azs1212-справочник-цен-e",
+  "external": false,
+  "caption": "Справочник цен",
+  "name": "IISAzs1212СправочникЦенL",
+  "className": "СправочникЦенL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-справочник-цен",
+      "modelProjection": "СправочникЦенL"
+    }
+  ]
+}

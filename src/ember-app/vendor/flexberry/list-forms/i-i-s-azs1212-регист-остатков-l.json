@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-azs1212-регист-остатков-e",
+  "editForm": "i-i-s-azs1212-регист-остатков-e",
+  "external": false,
+  "caption": "Регист остатков",
+  "name": "IISAzs1212РегистОстатковL",
+  "className": "РегистОстатковL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-регист-остатков",
+      "modelProjection": "РегистОстатковL"
+    }
+  ]
+}

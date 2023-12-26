@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Справочник цен",
+  "name": "IISAzs1212СправочникЦенE",
+  "className": "СправочникЦенE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-справочник-цен",
+      "modelProjection": "СправочникЦенE"
+    }
+  ]
+}

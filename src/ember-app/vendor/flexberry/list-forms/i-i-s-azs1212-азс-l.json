@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-azs1212-азс-e",
+  "editForm": "i-i-s-azs1212-азс-e",
+  "external": false,
+  "caption": "Азс",
+  "name": "IISAzs1212АзсL",
+  "className": "АзсL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-азс",
+      "modelProjection": "АзсL"
+    }
+  ]
+}

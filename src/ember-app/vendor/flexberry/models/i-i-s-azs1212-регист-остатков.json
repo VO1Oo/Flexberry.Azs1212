@@ -1,0 +1,45 @@
+﻿{
+  "name": "IISAzs1212РегистОстатков",
+  "modelName": "i-i-s-azs1212-регист-остатков",
+  "className": "РегистОстатков",
+  "nameSpace": "IIS.Azs1212",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "оплата",
+      "relatedTo": "i-i-s-azs1212-оплата",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "резервуар",
+      "relatedTo": "i-i-s-azs1212-резервуар",
+      "inverse": null
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "РегистОстатковE",
+      "modelName": "i-i-s-azs1212-регист-остатков",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "РегистОстатковL",
+      "modelName": "i-i-s-azs1212-регист-остатков",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

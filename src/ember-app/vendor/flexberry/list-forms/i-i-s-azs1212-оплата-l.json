@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-azs1212-оплата-e",
+  "editForm": "i-i-s-azs1212-оплата-e",
+  "external": false,
+  "caption": "Оплата",
+  "name": "IISAzs1212ОплатаL",
+  "className": "ОплатаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-оплата",
+      "modelProjection": "ОплатаL"
+    }
+  ]
+}

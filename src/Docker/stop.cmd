@@ -1,0 +1,1 @@
+docker-compose -p azs1212 down

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-azs1212-резервуар-e",
+  "editForm": "i-i-s-azs1212-резервуар-e",
+  "external": false,
+  "caption": "Резервуар",
+  "name": "IISAzs1212РезервуарL",
+  "className": "РезервуарL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-резервуар",
+      "modelProjection": "РезервуарL"
+    }
+  ]
+}

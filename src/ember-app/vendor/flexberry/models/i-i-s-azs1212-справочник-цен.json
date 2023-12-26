@@ -1,0 +1,75 @@
+﻿{
+  "name": "IISAzs1212СправочникЦен",
+  "modelName": "i-i-s-azs1212-справочник-цен",
+  "className": "СправочникЦен",
+  "nameSpace": "IIS.Azs1212",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "типТоплива",
+      "type": "i-i-s-azs1212-тип-топлива",
+      "flexberryType": "ТипТоплива",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "цена",
+      "type": "decimal",
+      "flexberryType": "double",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "СправочникЦенE",
+      "modelName": "i-i-s-azs1212-справочник-цен",
+      "attrs": [
+        {
+          "name": "цена",
+          "caption": "Цена",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "типТоплива",
+          "caption": "Тип топлива",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "СправочникЦенL",
+      "modelName": "i-i-s-azs1212-справочник-цен",
+      "attrs": [
+        {
+          "name": "цена",
+          "caption": "Цена",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "типТоплива",
+          "caption": "Тип топлива",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

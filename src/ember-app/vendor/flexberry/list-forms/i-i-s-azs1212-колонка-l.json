@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-azs1212-колонка-e",
+  "editForm": "i-i-s-azs1212-колонка-e",
+  "external": false,
+  "caption": "Колонка",
+  "name": "IISAzs1212КолонкаL",
+  "className": "КолонкаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-колонка",
+      "modelProjection": "КолонкаL"
+    }
+  ]
+}

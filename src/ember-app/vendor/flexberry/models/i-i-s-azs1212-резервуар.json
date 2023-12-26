@@ -1,0 +1,96 @@
+﻿{
+  "name": "IISAzs1212Резервуар",
+  "modelName": "i-i-s-azs1212-резервуар",
+  "className": "Резервуар",
+  "nameSpace": "IIS.Azs1212",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "номер",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "обьем",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "типТоплива",
+      "type": "i-i-s-azs1212-тип-топлива",
+      "flexberryType": "ТипТоплива",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "РезервуарE",
+      "modelName": "i-i-s-azs1212-резервуар",
+      "attrs": [
+        {
+          "name": "номер",
+          "caption": "Номер",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "типТоплива",
+          "caption": "Тип топлива",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "обьем",
+          "caption": "Обьем",
+          "hidden": false,
+          "index": 2
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "РезервуарL",
+      "modelName": "i-i-s-azs1212-резервуар",
+      "attrs": [
+        {
+          "name": "номер",
+          "caption": "Номер",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "типТоплива",
+          "caption": "Тип топлива",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "обьем",
+          "caption": "Обьем",
+          "hidden": false,
+          "index": 2
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

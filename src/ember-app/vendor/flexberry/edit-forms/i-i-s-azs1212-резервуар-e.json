@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Резервуар",
+  "name": "IISAzs1212РезервуарE",
+  "className": "РезервуарE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-azs1212-резервуар",
+      "modelProjection": "РезервуарE"
+    }
+  ]
+}
